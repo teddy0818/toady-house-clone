@@ -1,3 +1,6 @@
 p {
-  color: blue;
-  display: inline; }
+  display: block;
+  color: #000; }
+
+* {
+  font-family: 'Noto Sans KR', sans-serif; }
