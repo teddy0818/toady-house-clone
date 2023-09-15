@@ -21,5 +21,8 @@
   "homepage": "https://github.com/teddy0818/toady-house-clone#readme",
   "dependencies": {
     "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
   }
 }
