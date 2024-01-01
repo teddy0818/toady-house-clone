@@ -1,15 +1,15 @@
 {
-    "bracket-pair-colorizer-2.activeScopeCSS": [
-
-        "borderStyle : solid",
-        "borderWidth : 1px",
-        "borderColor : {color}; opacity: 0.5"
-    ],
-    "scssLint.showHighlights": false,
-    "scssLint.runOnTextChange": true,
-    "scssLint.errorBackgroundColor": "rgba(200, 50, 50, .8)",
-    "scssLint.warningBackgroundColor": "rgba(200, 100, 20, .8)",
-    "scssLint.languages": ["css", "scss"],
-    "scssLint.statusBarText": "`$(telescope) scss-lint ${errors.length} $(x)`",
-    "scssLint.configDir": "."
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}; opacity: 0.5"
+  ],
+  "scssLint.showHighlights": false,
+  "scssLint.runOnTextChange": true,
+  "scssLint.errorBackgroundColor": "rgba(200, 50, 50, .8)",
+  "scssLint.warningBackgroundColor": "rgba(200, 100, 20, .8)",
+  "scssLint.languages": ["css", "scss"],
+  "scssLint.statusBarText": "`$(telescope) scss-lint ${errors.length} $(x)`",
+  "scssLint.configDir": ".",
+  "liveServer.settings.multiRootWorkspaceName": "toady-house-clone"
 }
